@@ -6,26 +6,26 @@ username: bookstore
 password: bookstore
 
 ###Written By###
-+Evan Stewart
-+stewarea@gmail.com
++ Evan Stewart
++ stewarea@gmail.com
 
 ###Required Modules###
-+features
-+views
-+strongarm
++ features
++ views
++ strongarm
 
 ###Recommended add-on Modules###
-+sweaver
-+font-your-face
++ sweaver
++ font-your-face
 
 ###Installing###
-+Install as you would normally install a contributed Drupal module. See:
+1. Install as you would normally install a contributed Drupal module. See:
    https://drupal.org/documentation/install/modules-themes/modules-7
    for further information.
-+Make sure to import the attached bookstore.sql.zip
+2. Make sure to import the attached bookstore.sql.zip
 
 ###TroubleShooting###
-No know bugs, but please contact if there are any issues.
+No known bugs, but please contact if there are any issues.
 
 CONTENTS OF THIS FILE
 ---------------------
