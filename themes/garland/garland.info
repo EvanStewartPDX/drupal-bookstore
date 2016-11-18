@@ -12,3 +12,6 @@ version = "7.52"
 project = "drupal"
 datestamp = "1479322922"
 
+fonts[google_fonts_api][] = "Aclonica&subset=latin#regular"
+fonts[google_fonts_api][] = "Aguafina Script&subset=latin-ext#regular"
+fonts[google_fonts_api][] = "Indie Flower&subset=latin#regular"
