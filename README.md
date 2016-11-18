@@ -1,3 +1,27 @@
+#Books and Hooks#
+Drupal based website for Books and Hooks book chain.  
+
+###Written By###
++Evan Stewart
++stewarea@gmail.com
+
+###Required Modules###
++features
++views
++strongarm
+
+###Recommended add-on Modules###
++sweaver
++font-your-face
+
+###Installing###
++Install as you would normally install a contributed Drupal module. See:
+   https://drupal.org/documentation/install/modules-themes/modules-7
+   for further information.
++Make sure to import the attached bookstore.sql.zip
+
+###TroubleShooting###
+No know bugs, but please contact if there are any issues.
 
 CONTENTS OF THIS FILE
 ---------------------
@@ -121,3 +145,6 @@ More about developing:
    http://drupal.org/best-practices
  * Refer to the API documentation:
    http://api.drupal.org/api/drupal/7
+
+##Copyright##
+There is no copyright associated.  Have at it.
