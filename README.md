@@ -1,6 +1,10 @@
 #Books and Hooks#
 Drupal based website for Books and Hooks book chain.  
 
+###login credentials###
+username: bookstore
+password: bookstore
+
 ###Written By###
 +Evan Stewart
 +stewarea@gmail.com
